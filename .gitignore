@@ -2,3 +2,7 @@ movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
 config.py
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
